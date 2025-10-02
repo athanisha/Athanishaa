@@ -1,2 +1,19 @@
-# Athanishaa
-LATIKA
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profil Digital - [Nama Anda]</title>
+</head>
+<body>
+    <div class="kartu-profil">
+    <a nerf="...">Kunjungi Instagram Saya</a>
+    <button id="sapaButton"<Sapa Saya!</button>
+    </div>
+    <img src="foto-profil.jpg" alt="Foto profil saya">
+      <h1>Nmana Lengkap Anda</h1>
+      <p>Siswa SMA yang tertarik dengan teknologi dan desain.Selamat datang di website pertama saya!</p><a
+herf="https://www.instagram.com/usernameanda">Kunjungi Instagram Saya</a>
+
+</body>
+<script src="script.js"></script>
+</body>
+</html>
